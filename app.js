@@ -167,8 +167,8 @@ if (legendElement) {
   legendControl.element.style.display = isLegendVisible ? 'block' : 'none';
   // Adjust the position of the legend to the top-left corner
   legendControl.element.style.position = 'absolute';
-  legendControl.element.style.top = '245px'; 
-  legendControl.element.style.left = '1190px'; 
+  legendControl.element.style.top = '450px'; 
+  legendControl.element.style.left = '1186px'; 
 
   // Create a button to toggle the legend visibility
   let toggleLegendButton = document.createElement('button');
